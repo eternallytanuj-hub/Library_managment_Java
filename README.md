@@ -117,4 +117,4 @@ The project includes the self-contained Maven Wrapper (`./mvnw`). No pre-install
 ## Repository
 
 - **GitHub Remote**: `https://github.com/eternallytanuj-hub/Library_managment_Java.git`
-- **License**: MIT
+
