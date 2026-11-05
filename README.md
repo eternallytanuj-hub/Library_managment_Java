@@ -1,6 +1,6 @@
 # Online Library Management System
 
-An enterprise-grade, 4-tier MVC Web Application developed in Java for the GUVI Java Web Based Projects Evaluation. Provides role-based workflows for **Librarians** and **Members**, featuring catalog management, borrowing/returning transactions with ACID atomicity, real-time inventory tracking, analytics charts, and automated background overdue monitoring.
+Web Application developed in Java for the GUVI Java Web Based Projects Evaluation. Provides role-based workflows for **Librarians** and **Members**, featuring catalog management, borrowing/returning transactions with ACID atomicity, real-time inventory tracking, analytics charts, and automated background overdue monitoring.
 
 ---
 
